@@ -47,6 +47,7 @@ body {
     text-align: center;
 }
 
-.footer {
+footer {
     color: white !important;
     text-align: left;
+}
