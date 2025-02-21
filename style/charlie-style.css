@@ -26,10 +26,14 @@ h1 {
    text-align: center;
 }
 
-h3 {
+h2 {
     text-align: center;
 }
 
 .row {
     margin: 25px;
+}
+
+body {
+    background-color: grey;
 }
