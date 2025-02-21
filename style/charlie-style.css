@@ -27,7 +27,7 @@ h1 {
 }
 
 h2 {
-    text-align: center;
+    text-align: center !important;
 }
 
 .row {
@@ -35,5 +35,5 @@ h2 {
 }
 
 body {
-    background-color: grey;
+    background-color: grey !important;
 }
