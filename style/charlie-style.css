@@ -1,9 +1,0 @@
-.navbar-brand {                         /*initial colors*/
-    color: white !important;
-}
-.navbar {
-    background-color: rgb(4, 4, 98) !important; /*Navbar Color; needed to use !important to override BS defaults */
-}
-.navbar-dark .navbar-nav .nav-link {
-    color: white !important;              /* word color in navbar */
-}
