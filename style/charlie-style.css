@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+body {
+    font-family: 'EB Garamond', serif;
+}
+
+
+.navbar-brand {                         /*initial colors*/
+    color: white !important;
+}
+
+.navbar {
+    background-color: rgb(4, 4, 98) !important; /*Navbar Color; needed to use !important to override BS defaults */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;              /* word color in navbar */
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+   text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.row {
+    margin: 25px;
+}
