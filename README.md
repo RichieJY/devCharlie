@@ -1,5 +1,5 @@
 Sources/References:
--Dr. Cumbies in class notes/repo:  https://github.com/barrycumbie/special-fortnight-charlie
+-Dr. Cumbie's in class notes/repo:  https://github.com/barrycumbie/special-fortnight-charlie
 -W3 Schools HTML, BS5, jS, JQ, CSS:  https://www.w3schools.com/
 -bootstrap stuff:  https://mdbootstrap.com/docs/standard/navigation/footer/
 -My repos from past projects:  https://github.com/RichieJY
